@@ -1,11 +1,10 @@
 #Created by webjeda - http://webjeda.com
 
-title: Bheema #Keep it short
-email: your@email.com
-
-
-baseurl: /bheema
-
+title: 彭珊 #Keep it short
+email: 862137924@qq.com
+ 
+baseurl: /mysite
+ 
 sass:
  style: compressed
  
